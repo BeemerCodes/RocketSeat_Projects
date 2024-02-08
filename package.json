@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@radix-ui/react-dialog": "^1.0.5",
-    "date-fns": "^3.3.1"
-  }
-}
